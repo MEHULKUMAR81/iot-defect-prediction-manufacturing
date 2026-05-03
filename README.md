@@ -32,6 +32,9 @@ Assembly workflow:
 * **R04** disassembles product and returns tray
 * Process repeats continuously
 
+
+<img src="Image/setup.png" width="700">
+
 The dataset includes intentionally injected defects where components were manually removed to simulate real manufacturing anomalies such as:
 
 * NoNose
