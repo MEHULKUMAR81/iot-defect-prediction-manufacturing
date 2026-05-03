@@ -104,7 +104,6 @@ Built SQL scripts to standardize fragmented manufacturing logs:
 
 ### Timestamp standardization
 
-Timestamp Standardization
 
 Raw machine logs stored timestamps in ISO-8601 string format (2023-12-11T13:04:12.348Z). Used REPLACE() and STR_TO_DATE() in MySQL to convert them into DATETIME(3) format for accurate multi-machine joins and cycle reconstruction.
 
