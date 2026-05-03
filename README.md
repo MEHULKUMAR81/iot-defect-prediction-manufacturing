@@ -1,4 +1,3 @@
-
 # IoT Defect Prediction for Smart Manufacturing Assembly Line
 
 ## Project Overview
