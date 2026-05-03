@@ -254,13 +254,15 @@ Output:
 
 # Model Performance
 
-### Accuracy: **98%**
+Accuracy: 98%
 
-### Defect Recall: **100%**
+Defect Recall: 100%
 
-### Precision: **97%**
+Precision: 97%
 
-The model successfully identified nearly all defective assemblies while minimizing false alarms.
+The Random Forest model correctly identified most defective production cycles while maintaining a low false alarm rate.
+
+Given the dataset contained approximately 325 completed production cycles, these results should be interpreted as an initial proof-of-concept rather than production-ready deployment performance. Additional validation on larger production runs and real-time streaming sensor data would be required before implementation in a live manufacturing environment.
 
 ---
 
